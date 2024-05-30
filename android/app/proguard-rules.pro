@@ -1,0 +1,2 @@
+-keep class com.example.unama_pay.** { *; }
+-dontwarn com.example.unama_pay.**
