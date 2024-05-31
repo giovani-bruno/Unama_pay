@@ -13,6 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Unama Pay',
       theme: ThemeData(
         hintColor: const Color.fromARGB(255, 0, 0, 0),
