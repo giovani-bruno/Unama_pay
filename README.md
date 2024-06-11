@@ -1,16 +1,8 @@
 # unama_pay
 
-A new Flutter project.
+Unama pay é um aplicativo de banco desenvolvido como parte de um projeto acadêmico. Este aplicativo foi construído usando o framework Flutter, proporcionando uma experiência de usuário fluida e intuitiva para dispositivos Android. O objetivo do projeto é simular funcionalidades básicas de um banco, transferências, pagamentos, consultas de saldo e cotaçao de moedas em tempo real.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologias Utilizadas
+Flutter: Framework principal para desenvolvimento do aplicativo.
+Dart: Linguagem de programação utilizada com o Flutter.
+API do HG Brasil: Utilizada para obter cotações de moedas em tempo real.
