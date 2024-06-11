@@ -7,10 +7,10 @@ Unama pay é um aplicativo de banco desenvolvido como parte de um projeto acadê
 - Dart: Linguagem de programação utilizada com o Flutter.
 - API do HG Brasil: Utilizada para obter cotações de moedas em tempo real.
 
-### Como Rodar o Aplicativo em um Dispositivo Android
+## Como Rodar o Aplicativo em um Dispositivo Android
 #### Baixe o APK:
 
-- Vá para a pasta apk no repositório do GitHub ou clique [aqui](https://github.com/Numl8ck/Unama_pay/blob/main/apk/unama%20pay.apk) para baixar o arquivo APK mais recente.
+- Vá para a pasta apk no repositório do GitHub ou clique [aqui](https://github.com/Numl8ck/Unama_pay/tree/main/apk) para baixar o arquivo APK mais recente.
 
 #### Instale o APK no seu dispositivo Android:
 
